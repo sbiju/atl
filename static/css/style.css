@@ -1,0 +1,166 @@
+body
+{
+	background:#e6e6e6;
+}
+        
+.logo img
+{
+	 width: 192px;
+    margin-left: 2%;
+    position: relative;
+    top: 12px;
+}
+.landing
+{
+	width:100%;
+}
+.landing-left
+{
+	width:35%;
+	float:left;
+}
+.landing-left img {
+    width: 100%;
+}
+.landing-right
+{
+	width:65%;
+	float:left;
+}
+.landing-right img
+{
+	width:100%;
+}
+.landing-right-top
+{
+	width:100%;
+}
+.landing-right-bottom
+{
+	width:100%;
+}
+.landing-bottom-left img, .landing-bottom-right img
+{
+	width:45%;
+}
+.landing-bottom-left {
+    float: left;
+    width: 46%;
+    text-align: right;
+    margin-right: 8%;
+}
+.landing-bottom-right
+{
+	float:left;
+	width:46%;
+	text-align:left;
+}
+.connector {
+    position: relative;
+    bottom: 109px;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+}
+.connector img
+{
+	width: 17%;
+}
+.landing-right-bottom {
+    width: 61%;
+    float: right;
+}
+.landing-bottom-left img, .landing-bottom-right img {
+    width: 100%;
+}
+.connector img {
+    width: 38%;
+}
+.connector {
+    position: relative;
+    bottom: 290px;
+    text-align: center;
+}
+.landing-right-top img {
+    width: 82%;
+    margin-bottom: 10%;
+    float: right;
+}
+.landing-bottom-full
+{
+position: relative;
+    bottom: 99px;
+
+}
+
+
+
+.landing-btn-animate {
+    position: relative;
+    top: 200px;
+    left: 26%;
+    width: 210px;
+    height: 210px;
+    margin: -60px 0 0 -60px;
+    -webkit-animation: spin 15s linear infinite;
+    -moz-animation: spin 15s linear infinite;
+    animation: spin 15s linear infinite;
+    border-radius: 50%;
+    border: 2px dashed #1e2058;
+    display: block;
+}
+.landing-btn-animate:hover, .landing-btn-animate1:hover {
+    position: relative;
+    top: 200px;
+    left: 26%;
+    width: 210px;
+    height: 210px;
+    margin: -60px 0 0 -60px;
+    -webkit-animation: spin 0s linear infinite;
+    -moz-animation: spin 0s linear infinite;
+    animation: spin 0s linear infinite;
+    border-radius: 50%;
+    border: 2px dashed #1e2058;
+    display: block;
+}
+.landing-btn-animate1 {
+   position: relative;
+    top: 200px;
+    left: 26%;
+    width: 210px;
+    height: 210px;
+    margin: -60px 0 0 -60px;
+    -webkit-animation: spin 15s linear infinite;
+    -moz-animation: spin 15s linear infinite;
+    animation: spin 15s linear infinite;
+    border-radius: 50%;
+    border: 2px dashed #1e2058;
+    display: block;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+.connector {
+    position: relative;
+    bottom: 298px;
+    text-align: center;
+}
+.landing-right-top {
+    width: 100%;
+    position: relative;
+    top: 85px;
+}
+.landing {
+    width: 90%;
+    margin: auto;
+}
+body.landing-page
+{
+
+    background: #e6e6e6;
+    overflow-y: hidden;
+}
+/* css for lender page */
+
+
